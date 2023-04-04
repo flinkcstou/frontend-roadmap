@@ -27,6 +27,9 @@ https://habr.com/ru/company/ruvds/blog/422089/
 https://blog.bloomca.me/2017/12/04/how-to-cancel-your-promise.html
 https://easings.net
 
+https://www.youtube.com/watch?app=desktop&v=HOTZ5sg4Ihs&ab_channel=JoshuaMorony
+https://www.youtube.com/watch?app=desktop&v=tAgVINdc_o0&t=24s&ab_channel=%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4
+
 subtle patterns
 
 **patterns**
@@ -46,14 +49,38 @@ https://javascript.info/bubbling-and-capturing#capturing
 3. https://habr.com/ru/company/ruvds/blog/339770/
 4. https://habr.com/ru/company/ruvds/blog/326074/
 5. https://blog.bloomca.me/2017/12/04/how-to-cancel-your-promise.html
+6. https://www.youtube.com/watch?app=desktop&v=Sr0WT-XHwd0&ab_channel=WebDev%D1%81%D0%BD%D1%83%D0%BB%D1%8F.%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%9B%D1%83%D1%89%D0%B5%D0%BD%D0%BA%D0%BE
 
 **callbacks**
+
 1. https://javascript.info/callbacks
-
-
-
+2. https://www.youtube.com/watch?app=desktop&v=pahO5XjnfLA&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD
+3. https://www.youtube.com/watch?app=desktop&v=LM0tW2MZJZ4&ab_channel=%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%D0%9B%D0%B0%D0%B2%D1%80%D0%B8%D0%BA
+4. 
 **function/prototype**
+
 1. https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Function
 2. https://habr.com/ru/post/151070/
 3. https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/proto
 4. https://developer.mozilla.org/ru/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
+   https://www.youtube.com/watch?v=VP8RbIaqvKY&ab_channel=%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%D0%90%D1%80%D1%82%D0%B5%D0%BC%D0%B8%D1%8F%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2%D0%B0
+
+**mixins**
+https://www.youtube.com/watch?v=fCWRyUookBM&list=PLIcAMDxr6tppz0MDTAj7aj23_E6FwrRfO&index=3&ab_channel=Monsterlessons
+
+
+
+**setTimeout**
+https://www.youtube.com/watch?app=desktop&v=cCOL7MC4Pl0&ab_channel=JSConf
+
+
+**this**
+https://www.youtube.com/watch?app=desktop&v=UGapN-hrekw&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD
+
+
+**EventEmitter**
+https://www.youtube.com/watch?app=desktop&v=X-AhceP6jpA&ab_channel=StephenGrider
+
+
+**Map/Set**
+https://www.youtube.com/watch?app=desktop&v=mbcP3Oc0PjU&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD

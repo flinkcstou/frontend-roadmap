@@ -13,10 +13,6 @@ http://nataliesmith.ca/blog/ngtemplate-ngcontainer-ngcontent
 
 https://www.youtube.com/watch?v=jxlyAOuY9nU
 
-**NRGX**
-
-1. https://www.youtube.com/watch?v=JkjPdA1WARs
-
 https://webformyself.com/ispolzovanie-funkcii-async-await-v-angular/
 https://webformyself.com/moi-lyubimye-primery-resheniya-zadach-i-sovety-po-angular/
 https://webformyself.com/metod-zhiznennogo-cikla-angular-ngondestroy/
@@ -63,6 +59,10 @@ https://stackoverflow.com/questions/34827334/triggering-change-detection-manuall
 
 https://www.intertech.com/angular-component-lifecycle/
 
+https://www.youtube.com/watch?app=desktop&v=WC3hiMiH5kI&ab_channel=JoshuaMorony
+https://www.youtube.com/watch?app=desktop&v=SKwQthxmDBc&ab_channel=%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%93%D1%80%D0%BE%D0%BC
+
+
 **meets**
 https://www.youtube.com/watch?v=rse7-kzxetQ&ab_channel=%D0%A0%D0%B0%D0%B9%D1%84%D1%84%D0%B0%D0%B9%D0%B7%D0%B5%D0%BD%D0%91%D0%B0%D0%BD%D0%BA
 
@@ -72,3 +72,39 @@ https://habr.com/ru/post/425959/
 
 **books**
 https://drive.google.com/drive/u/0/folders/1VgNd2r0EkOJsusQlFLvi8gT0cKFZIRqW
+
+**async/pipe**
+https://javascript.plainenglish.io/angular-async-pipe-714dd864adaa
+https://javascript.plainenglish.io/custom-pipes-in-angular-the-ultimate-guide-e54bb400e3ce
+
+**lazy load services**
+https://netbasal.com/lazy-load-services-in-angular-bcf8eae406c8
+
+**Tree shaking**
+https://www.youtube.com/watch?app=desktop&v=ceNg3hq68w0&ab_channel=%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%9F%D0%9E.%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%96%D0%B5%D0%BB%D0%BD%D0%B8%D0%BD
+
+
+**refresh component**
+https://plainenglish.io/blog/angular-how-you-can-reload-refresh-a-single-component-or-the-entire-application-and-reuse-the-logic-c6e975a278c3
+
+
+**ng-template**
+https://www.youtube.com/watch?app=desktop&v=tPmtx08Tm-E&ab_channel=%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%93%D1%80%D0%BE%D0%BC
+
+**injectionTOken**
+https://www.youtube.com/watch?app=desktop&v=GvA7xnBmEto&ab_channel=MonsterlessonsAcademy
+
+
+**Qwik With Resource**
+https://www.youtube.com/watch?app=desktop&v=YMa_K_1kra4&ab_channel=AngularUniversity
+https://www.youtube.com/watch?app=desktop&v=PgOwXnCzsZM&ab_channel=AngularUniversity
+https://www.youtube.com/watch?app=desktop&v=EYTK_3vKqJM&ab_channel=AngularUniversity
+https://www.youtube.com/watch?app=desktop&v=-fKHrmOUbwg&ab_channel=AngularUniversity
+https://www.youtube.com/watch?app=desktop&v=WzYiitK2oFc&ab_channel=AngularUniversity
+
+**REST service**
+https://www.youtube.com/watch?app=desktop&v=U5fhobgGmTc&ab_channel=%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%93%D1%80%D0%BE%D0%BC
+
+
+**Module**
+https://www.youtube.com/watch?app=desktop&v=Rxj1jJswUfE&ab_channel=%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%93%D1%80%D0%BE%D0%BC

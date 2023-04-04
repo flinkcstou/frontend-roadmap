@@ -1,3 +1,3 @@
-js - > [JS](js/js.md).
+js - > [JS](javascript/js.md).
 
 
