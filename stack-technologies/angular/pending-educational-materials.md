@@ -89,6 +89,8 @@ https://plainenglish.io/blog/angular-how-you-can-reload-refresh-a-single-compone
 
 
 **ng-template**
+###   * `TemplateRef`, `ElementRef`, and `ViewContainerRef`
+
 https://www.youtube.com/watch?app=desktop&v=tPmtx08Tm-E&ab_channel=%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%93%D1%80%D0%BE%D0%BC
 
 **injectionTOken**
