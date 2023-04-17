@@ -1,9 +1,5 @@
 http://nataliesmith.ca/blog/ngtemplate-ngcontainer-ngcontent
 
-**Redux**
-
-1. https://blog.angular-university.io/angular-2-redux-ngrx-rxjs/
-2. https://medium.com/supercharges-mobile-product-guide/angular-redux-the-lesson-weve-learned-for-you-93bc94391958
 
 **Form builder**
 
@@ -87,7 +83,7 @@ https://plainenglish.io/blog/angular-how-you-can-reload-refresh-a-single-compone
 
 **ng-template**
 
-###    * `TemplateRef`, `ElementRef`, and `ViewContainerRef`
+###     * `TemplateRef`, `ElementRef`, and `ViewContainerRef`
 
 https://www.youtube.com/watch?app=desktop&v=tPmtx08Tm-E&ab_channel=%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%93%D1%80%D0%BE%D0%BC
 
@@ -113,3 +109,9 @@ https://medium.com/angular-in-depth/the-best-way-to-unsubscribe-rxjs-observable-
 **if-else**
 https://rangle.io/blog/rxjs-where-is-the-if-else-operator
 https://blog.strongbrew.io/rxjs-patterns-conditionally-executing-work/
+https://www.youtube.com/watch?app=desktop&v=SXOZaWLs4q0&ab_channel=JoshuaMorony
+
+**Decorator**
+https://levelup.gitconnected.com/building-custom-typescript-decorators-for-angular-4595816e7b87
+https://edupala.com/angular-viewchild-decorator/
+https://blog.logrocket.com/understanding-the-viewchild-and-viewchildren-decorators-in-angular-10/

@@ -15,3 +15,8 @@
 13. https://github.com/ngrx/platform
 14. https://serengetitech.com/tech/state-management-in-angular-applications-ngxs-vs-ngrx/
 
+
+**Redux**
+
+1. https://blog.angular-university.io/angular-2-redux-ngrx-rxjs/
+2. https://medium.com/supercharges-mobile-product-guide/angular-redux-the-lesson-weve-learned-for-you-93bc94391958
