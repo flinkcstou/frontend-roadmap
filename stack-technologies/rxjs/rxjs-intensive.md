@@ -9,3 +9,5 @@ https://www.youtube.com/watch?app=desktop&v=SXOZaWLs4q0&ab_channel=JoshuaMorony
 
 
 
+
+https://admin.indepth.dev/mastering-rxjs-operators-and-functions-that-can-bite-you-when-you-dont-expect/
