@@ -84,3 +84,7 @@ https://www.youtube.com/watch?app=desktop&v=X-AhceP6jpA&ab_channel=StephenGrider
 
 **Map/Set**
 https://www.youtube.com/watch?app=desktop&v=mbcP3Oc0PjU&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD
+
+
+**data-structure**
+https://github.com/trekhleb/javascript-algorithms
