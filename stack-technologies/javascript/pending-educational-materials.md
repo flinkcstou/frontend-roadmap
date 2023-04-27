@@ -34,6 +34,7 @@ subtle patterns
 
 **patterns**
 https://habr.com/ru/post/132472/
+https://www.youtube.com/watch?v=bTiAfLbmsnY&ab_channel=webDev
 
 **Производительность**
 https://www.youtube.com/watch?v=3sH3KgzAtdY&ab_channel=SplincodeTV
@@ -56,7 +57,8 @@ https://javascript.info/bubbling-and-capturing#capturing
 1. https://javascript.info/callbacks
 2. https://www.youtube.com/watch?app=desktop&v=pahO5XjnfLA&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD
 3. https://www.youtube.com/watch?app=desktop&v=LM0tW2MZJZ4&ab_channel=%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%D0%9B%D0%B0%D0%B2%D1%80%D0%B8%D0%BA
-4. 
+4.
+
 **function/prototype**
 
 1. https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Function
@@ -68,26 +70,23 @@ https://javascript.info/bubbling-and-capturing#capturing
 **mixins**
 https://www.youtube.com/watch?v=fCWRyUookBM&list=PLIcAMDxr6tppz0MDTAj7aj23_E6FwrRfO&index=3&ab_channel=Monsterlessons
 
-
-
 **setTimeout**
 https://www.youtube.com/watch?app=desktop&v=cCOL7MC4Pl0&ab_channel=JSConf
-
 
 **this**
 https://www.youtube.com/watch?app=desktop&v=UGapN-hrekw&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD
 
-
 **EventEmitter**
 https://www.youtube.com/watch?app=desktop&v=X-AhceP6jpA&ab_channel=StephenGrider
-
 
 **Map/Set**
 https://www.youtube.com/watch?app=desktop&v=mbcP3Oc0PjU&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD
 
-
 **data-structure**
 https://github.com/trekhleb/javascript-algorithms
 
-
 https://www.youtube.com/watch?v=e-5obm1G_FY&ab_channel=JSConf
+
+**pure-function** **high-function** **functional programming**
+
+- https://dev.to/mr_bertoli/an-adequate-introduction-to-functional-programming-1gcl

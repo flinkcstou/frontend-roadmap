@@ -10,21 +10,28 @@ The Observable abstraction is implemented as a class.
 
 implementation data structure observable in js
 
+start implementing an observable from scratch.
 ****
 
+
+**data-structure in js**
+
+- https://github.com/trekhleb/javascript-algorithms
+
 **Tree**
-https://youtube.com/watch?v=0BUX_PotA4c
-https://observablehq.com/@dimitrievskislavcho/javascript-tree-data-structure-implementation
+
+- https://youtube.com/watch?v=0BUX_PotA4c
+- https://observablehq.com/@dimitrievskislavcho/javascript-tree-data-structure-implementation
 
 **array**
-https://www.youtube.com/watch?app=desktop&v=t3kNEdMs6Lc&ab_channel=kepscodefun
 
-https://github.com/trekhleb/javascript-algorithms
+- https://www.youtube.com/watch?app=desktop&v=t3kNEdMs6Lc&ab_channel=kepscodefun
 
 **linked-list**
-https://sebhastian.com/linked-list-javascript/
-https://www.freecodecamp.org/news/implementing-a-linked-list-in-javascript/
-https://www.geeksforgeeks.org/implementation-linkedlist-javascript/
+
+- https://sebhastian.com/linked-list-javascript/
+- https://www.freecodecamp.org/news/implementing-a-linked-list-in-javascript/
+- https://www.geeksforgeeks.org/implementation-linkedlist-javascript/
 
 **observable**
 

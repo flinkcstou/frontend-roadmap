@@ -8,5 +8,9 @@ https://youtube.com/watch?v=KFYo4aUb8ec
 **Стратегия**
 https://youtube.com/watch?v=Jmz8361Qccc
 
-
 **subtle patterns**
+
+**observer**
+http://www.blackwasp.co.uk/Observer.aspx
+
+**iterator vs observer** https://www.youtube.com/watch?v=lil4YCCXRYc&t=1555s&ab_channel=JSConf
