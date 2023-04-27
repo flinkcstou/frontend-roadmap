@@ -1,6 +1,5 @@
 http://nataliesmith.ca/blog/ngtemplate-ngcontainer-ngcontent
 
-
 **Form builder**
 
 1. https://www.concretepage.com/angular-2/angular-2-4-formbuilder-example
@@ -83,7 +82,7 @@ https://plainenglish.io/blog/angular-how-you-can-reload-refresh-a-single-compone
 
 **ng-template**
 
-###     * `TemplateRef`, `ElementRef`, and `ViewContainerRef`
+###          * `TemplateRef`, `ElementRef`, and `ViewContainerRef`
 
 https://www.youtube.com/watch?app=desktop&v=tPmtx08Tm-E&ab_channel=%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%93%D1%80%D0%BE%D0%BC
 
@@ -120,6 +119,12 @@ https://blog.logrocket.com/understanding-the-viewchild-and-viewchildren-decorato
 https://medium.com/angular-in-depth/the-best-way-to-unsubscribe-rxjs-observable-in-the-angular-applications-d8f9aa42f6a0
 https://blog.codecentric.de/different-ways-unsubscribing-rxjs-observables-angular
 
-
 **onPUSH**
 https://admin.indepth.dev/deep-dive-into-the-onpush-change-detection-strategy-in-angular/
+https://indepth.dev/posts/1515/deep-dive-into-the-onpush-change-detection-strategy-in-angular
+
+**утечка памяти**
+https://www.youtube.com/watch?v=7806msvJ1HE&list=PLFgeB6PIQeuctRVzZP0-gtq69NkuTa5kM&index=2&ab_channel=HolyJS
+
+**refresh component** **Angular router reuse strategy**
+https://www.youtube.com/watch?v=7806msvJ1HE&list=PLFgeB6PIQeuctRVzZP0-gtq69NkuTa5kM&index=2&ab_channel=HolyJS
