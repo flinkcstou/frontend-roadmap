@@ -104,6 +104,9 @@ https://www.youtube.com/watch?app=desktop&v=Rxj1jJswUfE&ab_channel=%D0%9C%D0%B0%
 
 **unsubscribe**
 https://medium.com/angular-in-depth/the-best-way-to-unsubscribe-rxjs-observable-in-the-angular-applications-d8f9aa42f6a0
+https://netbasal.com/getting-to-know-the-takeuntildestroyed-operator-in-angular-d965b7263856
+https://medium.com/angular-in-depth/the-best-way-to-unsubscribe-rxjs-observable-in-the-angular-applications-d8f9aa42f6a0
+https://blog.codecentric.de/different-ways-unsubscribing-rxjs-observables-angular
 
 **if-else**
 https://rangle.io/blog/rxjs-where-is-the-if-else-operator
@@ -115,9 +118,6 @@ https://levelup.gitconnected.com/building-custom-typescript-decorators-for-angul
 https://edupala.com/angular-viewchild-decorator/
 https://blog.logrocket.com/understanding-the-viewchild-and-viewchildren-decorators-in-angular-10/
 
-**unsubscribe**
-https://medium.com/angular-in-depth/the-best-way-to-unsubscribe-rxjs-observable-in-the-angular-applications-d8f9aa42f6a0
-https://blog.codecentric.de/different-ways-unsubscribing-rxjs-observables-angular
 
 **onPUSH**
 https://admin.indepth.dev/deep-dive-into-the-onpush-change-detection-strategy-in-angular/
