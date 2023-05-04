@@ -128,3 +128,8 @@ https://www.youtube.com/watch?v=7806msvJ1HE&list=PLFgeB6PIQeuctRVzZP0-gtq69NkuTa
 
 **refresh component** **Angular router reuse strategy**
 https://www.youtube.com/watch?v=7806msvJ1HE&list=PLFgeB6PIQeuctRVzZP0-gtq69NkuTa5kM&index=2&ab_channel=HolyJS
+
+
+**dynamic-module**
+https://medium.com/@teslenkooleg2017/dynamic-import-ngmodule-angular-13-e7183c6743c6
+https://dev.to/railsstudent/dynamically-import-module-in-angular-29n6
