@@ -32,6 +32,8 @@ https://www.youtube.com/watch?app=desktop&v=tAgVINdc_o0&t=24s&ab_channel=%D0%A4%
 
 subtle patterns
 
+https://www.patterns.dev/posts#design-patterns
+
 **patterns**
 https://habr.com/ru/post/132472/
 https://www.youtube.com/watch?v=bTiAfLbmsnY&ab_channel=webDev

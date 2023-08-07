@@ -17,3 +17,7 @@ http://www.blackwasp.co.uk/Observer.aspx
 
 
 This is a common middleware pattern found in frameworks such as Express.js.
+
+
+https://www.patterns.dev/posts#design-patterns
+https://refactoring.guru/design-patterns/

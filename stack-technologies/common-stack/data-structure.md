@@ -4,6 +4,8 @@ we’ll start to implement RxJS from scratch
 
 implement pipeable operators
 
+implementing your own call(), apply() and bind
+
 create your own generator function
 
 The Observable abstraction is implemented as a class.
