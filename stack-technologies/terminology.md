@@ -1,0 +1,13 @@
+- проектирования - design
+- паттерн - шаблон - pattern
+- паттерн проектирования - шаблон проектирования - design pattern
+    - Порождающий паттерн проектирования - Creational design pattern
+    - Структурный паттерн проектирования- Structural design pattern
+    - Поведенческий паттерн проектирования - Behavioral design pattern
+- Архитектурный паттерн - Architectural pattern
+    - Паттерн Архитектурного проектирования - Architectural design patterns
+- структура данных - data structure
+- Алгоритмы - Algorithms
+- Дизайн системы- system design
+- Дизайн программного обеспечения - Software design
+

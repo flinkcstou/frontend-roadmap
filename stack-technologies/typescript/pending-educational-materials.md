@@ -21,3 +21,7 @@ https://blog.logrocket.com/how-to-use-keyof-operator-typescript/
 
 **generics**
 https://www.digitalocean.com/community/tutorials/how-to-use-generics-in-typescript
+
+что такое new() в interface
+
+попробовать полностью реализовать Map на typescript-e и также на js

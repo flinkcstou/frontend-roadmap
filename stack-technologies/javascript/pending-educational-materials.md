@@ -92,3 +92,6 @@ https://www.youtube.com/watch?v=e-5obm1G_FY&ab_channel=JSConf
 **pure-function** **high-function** **functional programming**
 
 - https://dev.to/mr_bertoli/an-adequate-introduction-to-functional-programming-1gcl
+
+- chain or responsibility pattern = цепочка обязанностей
+- FRP pattern - функциональное программирование pattern

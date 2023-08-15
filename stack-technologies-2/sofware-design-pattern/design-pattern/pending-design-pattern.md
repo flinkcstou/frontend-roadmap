@@ -1,3 +1,7 @@
+**Pattern**
+https://www.youtube.com/watch?v=-AaVsHkgWcQ
+
+
 Разрешения стратегии
 
 **design pattern**
@@ -24,3 +28,8 @@ This is a common middleware pattern found in frameworks such as Express.js.
 
 https://www.patterns.dev/posts#design-patterns
 https://refactoring.guru/design-patterns/
+
+
+Design Patterns in TypeScript
+**prototype**
+https://sbcode.net/typescript/prototype/

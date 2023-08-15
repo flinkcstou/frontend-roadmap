@@ -26,7 +26,7 @@ start implementing an observable from scratch.
 - https://observablehq.com/@dimitrievskislavcho/javascript-tree-data-structure-implementation
 
 **array**
- 
+
 - https://www.youtube.com/watch?app=desktop&v=t3kNEdMs6Lc&ab_channel=kepscodefun
 
 **linked-list**
@@ -51,5 +51,9 @@ https://www.youtube.com/watch?app=desktop&v=PF3mFOZn3MQ&ab_channel=JoshuaMorony
 https://dev.to/mr_bertoli/rxjs-from-scratch-observables-hl6
 https://dev.to/mr_bertoli/rxjs-from-scratch-pipeable-operators-1g18
 
-
 https://habr.com/ru/articles/497476/
+
+**data-structure js**
+https://github.com/trekhleb/javascript-algorithms
+
+https://www.youtube.com/watch?v=e-5obm1G_FY&ab_channel=JSConf
