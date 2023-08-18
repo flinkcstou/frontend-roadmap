@@ -1,0 +1,3 @@
+- `books`
+    - Niklaus Wirth `Algorithms + Data Structures = Programs`
+    - Т.Кормен, Ч.Лейзерсон, Р.Ривест, К.Штайн - `Алгоритмы. Построение и анализ`.
