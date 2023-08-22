@@ -82,11 +82,10 @@ https://plainenglish.io/blog/angular-how-you-can-reload-refresh-a-single-compone
 
 **ng-template**
 
-###          * `TemplateRef`, `ElementRef`, and `ViewContainerRef`
+###            * `TemplateRef`, `ElementRef`, and `ViewContainerRef`
 
 https://www.youtube.com/watch?app=desktop&v=tPmtx08Tm-E&ab_channel=%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%93%D1%80%D0%BE%D0%BC
 https://habr.com/ru/companies/tinkoff/articles/737836/?dsp_click_id=f79c8f21-7822-47a3-a082-6e96b3f159a3
-
 
 **injectionTOken**
 https://www.youtube.com/watch?app=desktop&v=GvA7xnBmEto&ab_channel=MonsterlessonsAcademy
@@ -120,7 +119,6 @@ https://levelup.gitconnected.com/building-custom-typescript-decorators-for-angul
 https://edupala.com/angular-viewchild-decorator/
 https://blog.logrocket.com/understanding-the-viewchild-and-viewchildren-decorators-in-angular-10/
 
-
 **onPUSH**
 https://admin.indepth.dev/deep-dive-into-the-onpush-change-detection-strategy-in-angular/
 https://indepth.dev/posts/1515/deep-dive-into-the-onpush-change-detection-strategy-in-angular
@@ -131,7 +129,33 @@ https://www.youtube.com/watch?v=7806msvJ1HE&list=PLFgeB6PIQeuctRVzZP0-gtq69NkuTa
 **refresh component** **Angular router reuse strategy**
 https://www.youtube.com/watch?v=7806msvJ1HE&list=PLFgeB6PIQeuctRVzZP0-gtq69NkuTa5kM&index=2&ab_channel=HolyJS
 
-
 **dynamic-module**
 https://medium.com/@teslenkooleg2017/dynamic-import-ngmodule-angular-13-e7183c6743c6
 https://dev.to/railsstudent/dynamically-import-module-in-angular-29n6
+
+**assets library**
+https://coco-boudard.medium.com/adding-css-assets-to-angular-library-c22fd3a47c5d
+https://juristr.com/blog/2020/05/nx-libs-with-assets/
+ 
+**dynamic load css in angular** 
+https://juristr.com/blog/2019/08/dynamically-load-css-angular-cli/
+
+**ng-packager**
+https://github.com/ng-packagr/ng-packagr/blob/main/docs/secondary-entrypoints.md
+
+
+**secondary-entry-point**
+https://medium.com/tunaiku-tech/creating-secondary-entry-points-for-your-angular-library-1d5c0e95600a
+https://dev.to/kauppfbi_96/why-and-how-to-use-secondary-entrypoints-in-your-angular-libraries-in-nx-3bb2
+https://olofens.medium.com/secondary-entry-points-in-an-angular-nx-library-8d01a80634cc
+
+
+**progress-barr**
+https://habr.com/ru/companies/tinkoff/articles/589735/
+
+
+**module federation**
+https://nx.dev/concepts/more-concepts/micro-frontend-architecture
+
+**lazy-load-components**
+https://netbasal.com/welcome-to-the-ivy-league-lazy-loading-components-in-angular-v9-e76f0ee2854a

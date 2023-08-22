@@ -47,3 +47,29 @@
      Connecting the Data Table
 
 > : Production to the App from ps.kz
+
+
+
+
+@ViewChild
+@ContentChild
+@HostBinding
+@Input
+@Output()
+
+
+ElementRef
+TemplateRef
+PlatformRef
+InternalViewRef
+EmbeddedViewRef
+ElementRef
+ViewContainerRef
+ChangeDetectorRef
+ViewRef
+ComponentRef
+NgModuleRef
+
+
+
+
