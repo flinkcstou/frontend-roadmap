@@ -122,6 +122,7 @@ https://blog.logrocket.com/understanding-the-viewchild-and-viewchildren-decorato
 **onPUSH**
 https://admin.indepth.dev/deep-dive-into-the-onpush-change-detection-strategy-in-angular/
 https://indepth.dev/posts/1515/deep-dive-into-the-onpush-change-detection-strategy-in-angular
+https://christiankohler.net/angular-change-detection-infographic
 
 **утечка памяти**
 https://www.youtube.com/watch?v=7806msvJ1HE&list=PLFgeB6PIQeuctRVzZP0-gtq69NkuTa5kM&index=2&ab_channel=HolyJS
