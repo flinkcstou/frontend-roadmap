@@ -160,3 +160,23 @@ https://nx.dev/concepts/more-concepts/micro-frontend-architecture
 
 **lazy-load-components**
 https://netbasal.com/welcome-to-the-ivy-league-lazy-loading-components-in-angular-v9-e76f0ee2854a
+
+
+
+*** signature сделать в ios
+*** изучить viewChild vs ContentChild
+*** how to get parent element from angular
+*** providers(useClass,useFactory,useValue) : изучить как реально работает
+*** router: изучить внутренние option parameter-ы
+***
+
+
+**изучить Augury, Angular state inspector, Angular Gauntlets
+
+**изучить bookmarklet javascript
+
+Изучить дальше angular module но это потом
+
+- - Следующее, что я буду изучать NgModule, Component, TemplateRef
+- 
+- изучить injection forwardRef
