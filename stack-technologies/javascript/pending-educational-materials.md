@@ -95,3 +95,7 @@ https://www.youtube.com/watch?v=e-5obm1G_FY&ab_channel=JSConf
 
 - chain or responsibility pattern = цепочка обязанностей
 - FRP pattern - функциональное программирование pattern
+
+javascript-algorithms
+
+https://github.com/trekhleb/javascript-algorithms

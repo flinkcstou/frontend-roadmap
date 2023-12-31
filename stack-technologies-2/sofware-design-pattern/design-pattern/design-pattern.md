@@ -9,3 +9,6 @@ https://levelup.gitconnected.com/23-design-patterns-99-of-java-developers-should
 **book**
 
 design pattern elements of reusable object-oriented software 
+
+
+https://habr.com/ru/articles/210288/
