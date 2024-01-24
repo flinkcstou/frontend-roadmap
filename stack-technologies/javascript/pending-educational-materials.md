@@ -86,6 +86,7 @@ https://www.youtube.com/watch?app=desktop&v=mbcP3Oc0PjU&ab_channel=%D0%92%D0%BB%
 
 **data-structure**
 https://github.com/trekhleb/javascript-algorithms
+https://github.com/trekhleb/javascript-algorithms/blob/master/README.ru-RU.md
 
 https://www.youtube.com/watch?v=e-5obm1G_FY&ab_channel=JSConf
 
@@ -99,3 +100,4 @@ https://www.youtube.com/watch?v=e-5obm1G_FY&ab_channel=JSConf
 javascript-algorithms
 
 https://github.com/trekhleb/javascript-algorithms
+https://github.com/trekhleb/javascript-algorithms/blob/master/README.ru-RU.md
