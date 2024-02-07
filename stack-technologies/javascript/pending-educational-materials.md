@@ -30,17 +30,10 @@ https://easings.net
 https://www.youtube.com/watch?app=desktop&v=HOTZ5sg4Ihs&ab_channel=JoshuaMorony
 https://www.youtube.com/watch?app=desktop&v=tAgVINdc_o0&t=24s&ab_channel=%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4
 
-subtle patterns
-
-https://www.patterns.dev/posts#design-patterns
-
-**patterns**
-https://habr.com/ru/post/132472/
-https://www.youtube.com/watch?v=bTiAfLbmsnY&ab_channel=webDev
 
 **Производительность**
 https://www.youtube.com/watch?v=3sH3KgzAtdY&ab_channel=SplincodeTV
-https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/
+https://auth0.com/blo 3g/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/
 https://firstclassjs.com/remove-duplicate-objects-from-javascript-array-how-to-performance-comparison/
 
 https://javascript.info/bubbling-and-capturing#capturing
@@ -84,11 +77,7 @@ https://www.youtube.com/watch?app=desktop&v=X-AhceP6jpA&ab_channel=StephenGrider
 **Map/Set**
 https://www.youtube.com/watch?app=desktop&v=mbcP3Oc0PjU&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD
 
-**data-structure**
-https://github.com/trekhleb/javascript-algorithms
-https://github.com/trekhleb/javascript-algorithms/blob/master/README.ru-RU.md
 
-https://www.youtube.com/watch?v=e-5obm1G_FY&ab_channel=JSConf
 
 **pure-function** **high-function** **functional programming**
 
@@ -97,7 +86,16 @@ https://www.youtube.com/watch?v=e-5obm1G_FY&ab_channel=JSConf
 - chain or responsibility pattern = цепочка обязанностей
 - FRP pattern - функциональное программирование pattern
 
-javascript-algorithms
+
+**iterator vs observer** https://www.youtube.com/watch?v=lil4YCCXRYc&t=1555s&ab_channel=JSConf
+
+
+**javascript-algorithms**
 
 https://github.com/trekhleb/javascript-algorithms
 https://github.com/trekhleb/javascript-algorithms/blob/master/README.ru-RU.md
+**data-structure**
+https://github.com/trekhleb/javascript-algorithms
+https://github.com/trekhleb/javascript-algorithms/blob/master/README.ru-RU.md
+
+https://www.youtube.com/watch?v=e-5obm1G_FY&ab_channel=JSConf
