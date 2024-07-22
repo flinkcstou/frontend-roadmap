@@ -18,10 +18,19 @@ https://www.youtube.com/watch?app=desktop&v=-KszsBv4fbo&ab_channel=JavaScript.Ni
 **keyof**
 https://plainenglish.io/blog/master-the-typescript-keyof-type-operator
 https://blog.logrocket.com/how-to-use-keyof-operator-typescript/
-
+https://refine.dev/blog/typescript-keyof/#summary
+https://dev.to/search?utf8=%E2%9C%93&q=typeof+in+typescript
+https://dev.to/this-is-learning/typescript-tips-tricks-typeof-nfi
+https://dev.to/dhrn/day-47-utility-types-2g5m
+https://dev.to/andreasbergqvist/typescript-get-types-from-data-using-typeof-4b9c
 **generics**
 https://www.digitalocean.com/community/tutorials/how-to-use-generics-in-typescript
 
-что такое new() в interface
+**!** что такое new() в interface, и что будет если добавить дополнительные свойства в interface и как она будет себя
+вести
 
 попробовать полностью реализовать Map на typescript-e и также на js
+
+Можно каждый день по одной статье читать
+https://dev.to/dhrn/day-47-utility-types-2g5m
+https://dev.to/this-is-learning/typescript-tips-tricks-typeof-nfi
