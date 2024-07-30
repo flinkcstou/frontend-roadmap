@@ -100,3 +100,7 @@ https://github.com/trekhleb/javascript-algorithms
 https://github.com/trekhleb/javascript-algorithms/blob/master/README.ru-RU.md
 
 https://www.youtube.com/watch?v=e-5obm1G_FY&ab_channel=JSConf
+
+
+Интересное
+https://www.youtube.com/watch?app=desktop&v=FOYIf5UBD9Q
