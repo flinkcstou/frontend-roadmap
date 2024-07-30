@@ -6,6 +6,7 @@ https://semver.org/lang/ru/
 
 **OOP**
 https://www.youtube.com/watch?app=desktop&v=zqxVI_kEdq8&ab_channel=Winderton
+https://www.youtube.com/watch?app=desktop&v=RgXeBbe-66U
 
 **SOLID TS**
 https://blog.logrocket.com/applying-solid-principles-typescript/
@@ -13,3 +14,4 @@ https://www.youtube.com/watch?v=xq13wiqvcTc&list=PLqKQF2ojwm3llpxoP1rzoz7TE2Fpo4
 
 **how to be open source**
 https://habr.com/ru/post/710386/
+

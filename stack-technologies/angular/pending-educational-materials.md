@@ -123,6 +123,9 @@ https://blog.logrocket.com/understanding-the-viewchild-and-viewchildren-decorato
 https://admin.indepth.dev/deep-dive-into-the-onpush-change-detection-strategy-in-angular/
 https://indepth.dev/posts/1515/deep-dive-into-the-onpush-change-detection-strategy-in-angular
 https://christiankohler.net/angular-change-detection-infographic
+https://www.youtube.com/watch?v=hZOauXaO8Z8
+https://www.youtube.com/watch?v=Ys7xdebd66Y
+https://www.youtube.com/watch?v=WAu7omIoerM
 
 **утечка памяти**
 https://www.youtube.com/watch?v=7806msvJ1HE&list=PLFgeB6PIQeuctRVzZP0-gtq69NkuTa5kM&index=2&ab_channel=HolyJS
@@ -162,7 +165,10 @@ https://nx.dev/concepts/more-concepts/micro-frontend-architecture
 https://netbasal.com/welcome-to-the-ivy-league-lazy-loading-components-in-angular-v9-e76f0ee2854a
 
 
-
+**injection**
+https://www.youtube.com/watch?app=desktop&v=C-UOmVfzBbw
+https://www.youtube.com/watch?v=WJLns2wfNtE&list=PL7GaNwuzA5StjPUhLzaegidzFr9JK9TXw
+https://www.youtube.com/watch?app=desktop&v=J1f5b4vcxCQ
 *** signature сделать в ios
 *** изучить viewChild vs ContentChild
 *** how to get parent element from angular

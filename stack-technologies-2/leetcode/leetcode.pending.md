@@ -1,6 +1,7 @@
 - Собрать все видео, материалы для leetcode и построить свой план как и что нужно делать, с чего начать, что изучить, по
   какой последовательности изучать, написать картотеку и roadmap по темам. по разделам и по задачам,
-- 
+-
+
 https://www.youtube.com/watch?v=jgQjes7MgTM The BEST Coding Interview Roadmap in 2023 (free)
 
 https://www.youtube.com/watch?v=JtMuXmmDl9s&list=WL&index=6 Задача из Собеседования на 160,000 Евро в Год
@@ -56,3 +57,8 @@ backtracking
 - Programming skills
 
 ![img.png](img.png)
+
+effectively leetcode
+
+- https://www.youtube.com/watch?app=desktop&v=dO83aJOpsFc
+- https://www.youtube.com/watch?app=desktop&v=8wysIxzqgPI

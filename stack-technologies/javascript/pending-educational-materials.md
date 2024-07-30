@@ -46,6 +46,7 @@ https://javascript.info/bubbling-and-capturing#capturing
 4. https://habr.com/ru/company/ruvds/blog/326074/
 5. https://blog.bloomca.me/2017/12/04/how-to-cancel-your-promise.html
 6. https://www.youtube.com/watch?app=desktop&v=Sr0WT-XHwd0&ab_channel=WebDev%D1%81%D0%BD%D1%83%D0%BB%D1%8F.%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%9B%D1%83%D1%89%D0%B5%D0%BD%D0%BA%D0%BE
+7. https://www.youtube.com/watch?app=desktop&v=1idOY3C1gYU
 
 **callbacks**
 

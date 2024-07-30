@@ -24,3 +24,6 @@ Development View
 Диаграммы компонентов (Component Diagrams)
 Диаграммы развертывания (Deployment Diagrams)
 Диаграммы активности (Activity Diagrams)
+
+use case diagram
+https://www.youtube.com/watch?app=desktop&v=R_6rMdFXpHU\
