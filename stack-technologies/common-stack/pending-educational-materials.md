@@ -15,3 +15,5 @@ https://www.youtube.com/watch?v=xq13wiqvcTc&list=PLqKQF2ojwm3llpxoP1rzoz7TE2Fpo4
 **how to be open source**
 https://habr.com/ru/post/710386/
 
+**contribute open source**
+https://www.youtube.com/watch?app=desktop&v=dLRA1lffWBw
