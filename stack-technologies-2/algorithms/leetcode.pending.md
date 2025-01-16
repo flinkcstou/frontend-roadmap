@@ -36,4 +36,5 @@ lessons, courses, learning, tutorial, editorial,
 - https://www.youtube.com/watch?v=DjYZk8nrXVY&list=WL&index=4&t=120s`
 - https://www.youtube.com/watch?v=Cok2_K3Yw00&list=WL&index=71
 - https://www.youtube.com/watch?v=kS_gr2_-ws8&list=WL&index=86
+- https://www.youtube.com/watch?v=ugGT4T5HcsI&t=6978s
 - 
