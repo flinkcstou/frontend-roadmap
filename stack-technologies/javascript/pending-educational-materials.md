@@ -104,3 +104,9 @@ https://www.youtube.com/watch?v=e-5obm1G_FY&ab_channel=JSConf
 
 Интересное
 https://www.youtube.com/watch?app=desktop&v=FOYIf5UBD9Q
+
+you dont know js
+https://www.youtube.com/watch?v=xltVJZbTl4Y&list=WL&index=85
+https://www.youtube.com/watch?v=3btM1eujf9s&list=WL&index=86
+https://www.youtube.com/watch?v=uI-hjpmNeYI&list=WL&index=87
+

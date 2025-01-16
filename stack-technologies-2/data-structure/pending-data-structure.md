@@ -61,3 +61,6 @@ https://www.youtube.com/watch?v=e-5obm1G_FY&ab_channel=JSConf
 
 hashmap
 https://www.youtube.com/watch?app=desktop&v=Q8FVBwtE7Uw
+
+https://www.youtube.com/watch?v=CjAdzSDafrY&list=WL&index=220
+https://www.youtube.com/watch?v=ZAh3NQ9WiSg&list=WL&index=252

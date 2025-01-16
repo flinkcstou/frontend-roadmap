@@ -4,3 +4,4 @@
   производительность и др.
 
 
+https://www.youtube.com/watch?v=X85soC5evw0&list=WL&index=89
