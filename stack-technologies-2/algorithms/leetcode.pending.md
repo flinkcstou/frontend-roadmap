@@ -28,7 +28,7 @@ lessons, courses, learning, tutorial, editorial,
 - todo nabu. Также каждый раз нужно анализировать после того как поймал себя на мысли что тебя отвлекает и принять меры как избавиться от помех, от отвекающих факторов. Если нет, то почему
 - Если не знаешь насколько критично отпустить ситуацию что это пока будет продолжаться и отвлекать и дать время для решения чтобы не тревожиться и относиться к таким ситуациям и к себе более дружелюбно
 - зная тот факт что ты доверяешь себе и что ты себя поддерживаешь и ты за то чтобы делать свою жизнь лучше и ты за то чтобы искать выгоду себе
-- и за то чтобы делать и думать эффективнее и развиваться. 
+- и за то чтобы делать и думать эффективнее и развиваться.
 
 - https://interviews.school/leetcode прочесть и учесть момент с IDEA
 - https://www.coursera.org/learn/algorithms-part1?action=enroll
@@ -37,4 +37,33 @@ lessons, courses, learning, tutorial, editorial,
 - https://www.youtube.com/watch?v=Cok2_K3Yw00&list=WL&index=71
 - https://www.youtube.com/watch?v=kS_gr2_-ws8&list=WL&index=86
 - https://www.youtube.com/watch?v=ugGT4T5HcsI&t=6978s
-- 
+
+- Word Ladder, Friend Circles, Add Two Numbers, Maximal Square, Most Common Word, Trapping Rain Water, Merge k Sorted Lists, Subtree of Another Tree, Longest Palindromic Substring
+
+binary search https://labuladong.gitbook.io/algo-en/iii.-algorithmic-thinking/detailedbinarysearch
+
+problems by company https://seanprashad.com/leetcode-patterns/
+
+problems two pointer https://leetcode.com/problem-list/9ns2k47r/ https://leetcode.com/problem-list/xlem03mm/
+
+problems fast and slow pointer https://leetcode.com/problem-list/xlerlepr/
+
+problems top K elements https://leetcode.com/problem-list/xlepz4mv/
+
+problems sliding window https://leetcode.com/problem-list/xlep8di5/
+
+problems binary search https://leetcode.com/problem-list/xcrx4mxm/ https://leetcode.com/problem-list/xleplgq3/
+
+problems tree bfs https://leetcode.com/problem-list/xlepfebm/
+problems tree dfs https://leetcode.com/problem-list/xlemouqi/
+problems merge intervals https://leetcode.com/problem-list/xlepvmyj/
+problems backtracking https://leetcode.com/problem-list/xlere2g3/
+problems graph https://leetcode.com/problem-list/x1vj23fh/
+
+linked list https://www.youtube.com/playlist?list=PLot-Xpze53leU0Ec0VkBhnf4npMRFiNcB
+
+📚Если с нуля, то прочитать книгу «Грокаем Алгоритмы».
+https://cutt.ly/1CzBAIq
+
+📚Потом «Алгоритмы. Построение и анализ Томас Кормен, Чарльз Лейзерсон, Рональд Ривест, Клиффорд Штайн.
+https://cutt.ly/8CzBXuW
