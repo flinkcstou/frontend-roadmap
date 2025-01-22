@@ -1,10 +1,12 @@
-- `books`
-    - Niklaus Wirth `Algorithms + Data Structures = Programs`
-    - Купи трехтомник Дональда Кнута "Искусство программирования для ЭВМ"
+### books
 
-- https://www.youtube.com/watch?v=8hly31xKli0&list=WL&index=129 Algorithms and Data Structures Tutorial - Full Course
-  for Beginners
+- `Algorithms + Data Structures = Programs` Niklaus Wirth
+- `Искусство программирования` трехтомник Дональда Кнута
+- 
 
-https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/?programming_languages=java
+**course**
 
-![img_1.png](img_1.png)
+- https://www.youtube.com/watch?v=8hly31xKli0&list=WL&index=129
+
+**Roadmap**
+![img_1.png](assets/img_1.png)

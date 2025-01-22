@@ -4,7 +4,8 @@
   - `Алгоритмы и структуры данных`. Новая версия для Оберона, Вирт Никлаус
   - говорят топ
 
-- `Алгоритмы. Построение и анализ` Томас Кормен, Чарльз Лейзерсон, Рональд Ривест, Клиффорд Штайн.
+- `Introduction To Algorithms`  By Thomas H Cormen, Charles E Leiserson, Ronald L Rivest, Clifford Stein · 2001
+  - `Алгоритмы. Построение и анализ` Томас Кормен, Чарльз Лейзерсон, Рональд Ривест, Клиффорд Штайн.
   - говорят топ
 - `Грокаем алгоритмы` Бхаргава Адитья
   - https://kaspi.kz/shop/p/bhargava-a-grokaem-algoritmy-illjustrirovannoe-posobie-dlja-programmistov-i-ljubopytstvujuschih-100124576/?m=6372001&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_2k-10k&gad_source=1&gclid=Cj0KCQiA0fu5BhDQARIsAMXUBOI-Vli7qEKCwGaeZUrmZIBZxHXMByPGDNoHw9aimzRJkcbqDidqzBAaAqh2EALw_wcB
@@ -12,6 +13,9 @@
 - `Искусство программирования для ЭВМ` Трехтомник Дональда Кнута
   - `Искусство программирования`. Том 1. Основные алгоритмы, Кнут Дональд Эрвин
   - говорят приобрести все тома
+- `Алгоритмы. Самый краткий и понятный курс` — Луридас Панос
+- `Алгоритмы на Java` — Роберт Седжвик // прочитать отзыв
+- `Структуры данных и алгоритмы в Java. Классика Computers Science` (2-е издание) — Лафоре Роберт // прочитать отзыв
 
 ----
 
