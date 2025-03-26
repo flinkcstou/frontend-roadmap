@@ -70,3 +70,34 @@ https://cutt.ly/8CzBXuW
 
 tree https://youtube.com/watch?v=0BUX_PotA4c
 
+2. Estimated Time
+   Beginner:
+   Average Time per Problem: 1.5–2 hours (mix of Easy and Medium).
+   Time Needed: ~450–600 hours.
+   Plan:
+   2 hours/day: 7–10 months.
+   4 hours/day: 4–6 months.
+
+educative site make common overview, review and find maybe effective course to learn algorithms or data-structure
+
+algorithm design paradigm
+
+Если хочешь прокачать recursion, перерешай все задачи из карточки linked list
+
+tutorial linked list https://www.youtube.com/watch?v=dIiXnSDXjB0&list=PLURucSbFlTbTvzK7xTjM3bSAHPMjvWFiA&index=5
+tutorial binary search https://youtube.com/watch?v=cwPI_9uu9T0&list=PLURucSbFlTbTvzK7xTjM3bSAHPMjvWFiA&index=3
+tutorial heap & queue https://www.youtube.com/watch?v=bqiJQmKdVn8&list=PLURucSbFlTbTvzK7xTjM3bSAHPMjvWFiA&index=2
+tutorial recursion https://www.youtube.com/watch?v=MWyVg6o3hG0&list=PLURucSbFlTbTvzK7xTjM3bSAHPMjvWFiA&index=4
+tutorial lru algorithm https://www.youtube.com/watch?v=6Yw__wDPjtw&list=PLURucSbFlTbTvzK7xTjM3bSAHPMjvWFiA&index=7
+tutorial lfu algorithm https://www.youtube.com/watch?v=1LpWQP0-xL0&list=PLURucSbFlTbTvzK7xTjM3bSAHPMjvWFiA&index=8
+tutorial dynamic program https://www.youtube.com/watch?v=0sdzzkkkFnc&list=PLURucSbFlTbTvzK7xTjM3bSAHPMjvWFiA&index=12, https://www.youtube.com/watch?v=Tp792VHs8JU&list=PLURucSbFlTbTvzK7xTjM3bSAHPMjvWFiA&index=12
+
+Необходимо продумать теперь как я буду обучаться и улучшить свою методологию(2 месяца прорешал литкод, вроде идет хорошо, мне все нравится, хочу теперь углубленно темы изучать)
+
+I solved 100 leetcode problems today 02.03.2025
+and the main goals is i solved at least one leetcode problems every day. I congratulate me 
+
+binary search https://leetcode.com/discuss/explore/binary-search/2174241/JAVA-Binary-Search-Only-need-one-template
+
+
+https://github.com/jwasham/coding-interview-university
