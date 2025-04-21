@@ -95,9 +95,10 @@ tutorial dynamic program https://www.youtube.com/watch?v=0sdzzkkkFnc&list=PLURuc
 Необходимо продумать теперь как я буду обучаться и улучшить свою методологию(2 месяца прорешал литкод, вроде идет хорошо, мне все нравится, хочу теперь углубленно темы изучать)
 
 I solved 100 leetcode problems today 02.03.2025
-and the main goals is i solved at least one leetcode problems every day. I congratulate me 
+and the main goals is i solved at least one leetcode problems every day. I congratulate me
 
 binary search https://leetcode.com/discuss/explore/binary-search/2174241/JAVA-Binary-Search-Only-need-one-template
 
-
 https://github.com/jwasham/coding-interview-university
+
+https://leetcode.com/discuss/post/6586727/n-ary-tree-java-cheat-sheet-with-example-m313/ cheat-sheets n-ary tree
