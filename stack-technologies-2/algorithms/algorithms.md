@@ -26,6 +26,8 @@
 - https://roadmap.sh/datastructures-and-algorithms
 - ![img_2.png](assets/img_2.png)
 
+- https://roadmap.sh/computer-science
+
 **neetcode algorithm roadmap**
 
 - https://neetcode.io/roadmap
